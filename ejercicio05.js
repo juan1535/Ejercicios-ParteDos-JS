@@ -8,3 +8,4 @@ const silabas = (palabra) => {
 }
 
 silabas(palabra);
+
